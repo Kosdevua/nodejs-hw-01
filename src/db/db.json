@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "a3a68607-868e-4dfc-929c-4ee7fded5768",
+    "name": "Michelle Jast",
+    "phone": "315.797.1077 x49842",
+    "email": "Norris.Armstrong@yahoo.com",
+    "job": "Central Usability Coordinator"
+  },
+  {
+    "id": "dd656cc8-adbe-4f82-bf26-7089919bfa06",
+    "name": "Shaun Donnelly",
+    "phone": "(323) 495-0387",
+    "email": "Clare.McLaughlin@yahoo.com",
+    "job": "Corporate Integration Technician"
+  },
+  {
+    "id": "567eb240-c652-4ed5-b0d7-22e909f1a6a7",
+    "name": "Stanley Barton",
+    "phone": "1-749-700-3779 x381",
+    "email": "Melvin34@gmail.com",
+    "job": "Future Interactions Designer"
+  },
+  {
+    "id": "5e6f571b-b5fc-4447-afd2-2106d58434ff",
+    "name": "Phyllis Feest",
+    "phone": "787.749.3760 x471",
+    "email": "Titus.Hagenes@hotmail.com",
+    "job": "Customer Metrics Assistant"
+  },
+  {
+    "id": "301f1402-7f2b-4e8d-9832-b863f7c9f7b3",
+    "name": "Felipe Ferry",
+    "phone": "729-260-0539 x102",
+    "email": "Joey_Rosenbaum@yahoo.com",
+    "job": "Investor Quality Facilitator"
+  }
+]
